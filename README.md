@@ -1,6 +1,6 @@
 # Steganography-python
 
-# Stego.py - Simple Image Steganography
+# Stego.py - Secure Data Hiding in Image Using Steganography
 
 ## Overview
 Stego.py is a Python script that implements a simple form of image steganography. It allows users to hide a secret message within an image and retrieve it later using a passcode.
